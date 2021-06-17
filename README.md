@@ -1,2 +1,1 @@
-# iOS_Prep_Developer_Checklist
-iOS Developer Knowledgebase
+#### iOS Prep - Developer's Checklist
